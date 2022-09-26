@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jarred/h1>
+<h1 align="center">Hi 👋, I'm Jarred</h1>
 <h3 align="center">I am a Fullstack .NET Developer</h3>
 
 - The project which best represents my skillset is <a href="" target="_blank" rel="noreferrer"></a>
