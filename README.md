@@ -25,8 +25,8 @@
     <!-- React -->
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/> 
     </a>
-    <!-- React -->
-    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://commons.wikimedia.org/wiki/File:Tailwind_CSS_Logo.svg" alt="tailwind" width="40" height="40"/> 
+    <!-- Tailwind -->
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwind" width="40" height="40"/> 
     </a>
     <!-- Bootstrap -->
   <!--
