@@ -28,20 +28,19 @@
     <!-- Tailwind -->
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwind" width="40" height="40"/> 
     </a>
-    
-
-
     <!-- VS Code -->
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img              src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vs code" width="40" height="40"/> 
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img              src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vs code" width="40" height="40"/> 
     </a>
-
-<!-- Visual Studio 2022 -->
+    <!-- Visual Studio 2022 -->
     <a href="https://visualstudio.microsoft.com/vs/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="visual studio 2022" width="40" height="40"/> 
     </a>
+    <!-- Git -->
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+    
     <!-- Bootstrap -->
   <!--
     <a href=https://getbootstrap.com/docs/5.2/getting-started/introduction/ target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> 
     </a> -->
-    <!-- Git -->
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+    
+    
 </p>
