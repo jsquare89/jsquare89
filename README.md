@@ -48,16 +48,17 @@
     
 </p>
     <div>
-        <ul class="columns" data-columns="2">
+        <ul>
             <li>C#</li>
             <li>.NET Core / ASP.NET MVC</li>
             <li>EF Core / Identity</li>
             <li>SQL - MSSQL, Postgres</li>
             <li>JavaScript</li>
             <li>React</li>
+            <li>HTML/CSS</li>
             <li>Tailwindcss</li>
             <li>Visual Studio 2022</li>
-            <li>VS Code</li><li>HTML/CSS</li>
+            <li>VS Code</li>
             <li>Git/Github</li>
             <li>REST API</li>
         </ul>
