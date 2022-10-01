@@ -39,6 +39,22 @@
     <!-- Git -->
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> <br/><br/>
     
+    <div>
+        <ul class="columns" data-columns="2">
+            <li>C#</li>
+            <li>.NET Core / ASP.NET MVC</li>
+            <li>EF Core / Identity</li>
+            <li>SQL - MSSQL, Postgres</li>
+            <li>JavaScript</li>
+            <li>React</li>
+            <li>Tailwindcss</li>
+            <li>Visual Studio 2022</li>
+            <li>VS Code</li><li>HTML/CSS</li>
+            <li>Git/Github</li>
+            <li>REST API</li>
+        </ul>
+    </div>
+    
   <!-- Bootstrap -->
   <!--
     <a href=https://getbootstrap.com/docs/5.2/getting-started/introduction/ target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> 
