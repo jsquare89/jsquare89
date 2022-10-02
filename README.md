@@ -30,6 +30,9 @@
     <!-- Tailwind -->
     <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="tailwind" width="40" height="40"/> 
     </a>
+     <!-- Bootstrap -->
+  <a href=https://getbootstrap.com/docs/5.2/getting-started/introduction/ target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> 
+    </a> 
     <!-- VS Code -->
     <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img              src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vs code" width="40" height="40"/> 
     </a>
@@ -41,15 +44,11 @@
     
 
     
-  <!-- Bootstrap -->
-  <!--
-    <a href=https://getbootstrap.com/docs/5.2/getting-started/introduction/ target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" height="40"/> 
-    </a> -->
-    
+
    
 </p>
 <p>
- C# | .NET Core | ASP.NET MVC | EF Core / Identity | MSSQL | PostgreSQL | JavaScript | React | HTML/CSS | Tailwindcss | VS Code | Visual Studio 2022 | Git/Github | REST API
+ C# | .NET Core | ASP.NET MVC | EF Core / Identity | MSSQL | PostgreSQL | JavaScript | React | HTML/CSS | Tailwindcss 3 | Bootstrap 5 | VS Code | Visual Studio 2022 | Git/Github | REST API
 </p>
 
     
