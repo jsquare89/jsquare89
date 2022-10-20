@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jarred</h1>
 <h3 align="center">I am a Fullstack .NET Developer</h3>
 
-- The project which best represents my skillset is <a href="" target="_blank" rel="noreferrer"></a>
-
 - View my work at <a href="https://jarredj.netlify.app/" target="_blank" rel="noreferrer">jarredj.netlify.app</a>
 
 - <a href="https://jarredj.netlify.app/#contact" target="_blank" rel="noreferrer">Contact me</a>
