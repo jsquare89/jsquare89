@@ -46,7 +46,7 @@
    
 </p>
 <p>
- C# | .NET Core | ASP.NET MVC | EF Core / Identity | MSSQL | PostgreSQL | JavaScript | React | HTML/CSS | Tailwindcss 3 | Bootstrap 5 | VS Code | Visual Studio 2022 | Git/Github | REST API
+ C# | JavaScript | TypeScript | .NET Core | ASP.NET MVC | EF Core / Identity | NodeJs | React | NextJs | Prisma | REST API | GraphQL | MSSQL | PostgreSQL |  HTML/CSS | TailwindCSS 3 | Bootstrap 5 | VS Code | Visual Studio 2022 | Git/Github | JIRA | Docker
 </p>
 
     
