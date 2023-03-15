@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jarred</h1>
-<h3 align="center">I am a Fullstack .NET Developer</h3>
+<h3 align="center">I am a Fullstack Developer</h3>
 
 - View my work at <a href="https://jarredj.netlify.app/" target="_blank" rel="noreferrer">jarredj.netlify.app</a>
 
